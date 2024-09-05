@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GradeSchoolMultiplication",
+            "request": "launch",
+            "mainClass": "GradeSchoolMultiplication",
+            "projectName": "test-9.3_eafd7f52"
+        },
+        {
+            "type": "java",
+            "name": "LongMultiplication",
+            "request": "launch",
+            "mainClass": "LongMultiplication",
+            "projectName": "test-9.3_eafd7f52"
+        }
+    ]
+}
